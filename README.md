@@ -9,24 +9,69 @@
 
 <br>
 
-### 🌱 Currently Learning
-- **ReactJS**
-- **Blockchain**
-- **Machine Learning**
-
-### 💬 Ask Me About
-- **C++**
-- **Data Structures & Algorithms**
-- **Python**
-- **HTML**
-- **CSS**
-- **JavaScript**
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 1000px;">
+  <tr>
+    <td valign="top" width="25%" style="border: 2px solid #4CAF50; padding: 15px;">
+      <h3>💬 Ask Me About</h3>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li><b>C++</b></li>
+        <li><b>Data Structures & Algorithms</b></li>
+        <li><b>Python</b></li>
+        <li><b>HTML</b></li>
+        <li><b>CSS</b></li>
+        <li><b>JavaScript</b></li>
+      </ul>
+    </td>
+    <td valign="top" width="25%" style="border: 2px solid #4CAF50; padding: 15px;">
+      <h3>🌱 Currently Learning</h3>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li><b>ReactJS</b></li>
+        <li><b>Blockchain</b></li>
+        <li><b>Machine Learning</b></li>
+      </ul>
+    </td>
+    <td valign="top" width="25%" style="border: 2px solid #4CAF50; padding: 15px;">
+      <h3>📫 Connect with Me</h3>
+      <p align="center">
+        <a href="https://leetcode.com/u/rahul124rahul/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin: 0 10px;"/></a>
+        <a href="https://www.geeksforgeeks.org/user/rahul_dadge_2003/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin: 0 10px;"/></a>
+        <a href="https://www.linkedin.com/in/rahul-dadge-221344249/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 10px;"/></a><br>
+        <a href="https://codeforces.com/profile/rahuldadge" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin: 0 10px;"/></a>
+        <a href="https://www.codechef.com/users/worm_rabbits" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="margin: 0 10px;"/></a>
+        <a href="https://www.hackerrank.com/profile/iamsrahulgd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin: 0 10px;"/></a><br>
+        <a href="https://twitter.com/rahul_g_d_19" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin: 0 10px;"/></a>
+      </p>
+    </td>
+    <td valign="top" width="25%" style="border: 2px solid #4CAF50; padding: 15px;">
+      <h3>🛠️ Languages and Tools</h3>
+      <p align="center">
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 10px;"/> 
+        </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 0 10px;"/> 
+        </a> 
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px;"/> 
+        </a> <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/> 
+        </a>  
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;"/> 
+        </a> 
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 0 10px;"/> 
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ### 🚀 Projects:
-- **[Cricket Game](https://github.com/rahul124rahul/Web_Development/tree/main/Front%20End%20Development/Projects/Cricket%20Game):** This project is built using front-end technologies like HTML, CSS, and JavaScript. The project demonstrates your skills in creating interactive user experiences, handling game logic, and possibly managing game state through JavaScript.
-This project could serve as a showcase of your ability to develop engaging and interactive web applications, with a focus on applying programming logic to simulate real-world scenarios.
+- **[Cricket Game](https://github.com/rahul124rahul/Web_Development/tree/main/Front%20End%20Development/Projects/Cricket%20Game):** This project is built using front-end technologies like HTML, CSS, and JavaScript. The project demonstrates your skills in creating interactive user experiences, handling game logic, and possibly managing game state through JavaScript. This project could serve as a showcase of your ability to develop engaging and interactive web applications, with a focus on applying programming logic to simulate real-world scenarios.
 
 - **[Portfolio](https://github.com/rahul124rahul/CodsSoft/tree/main/Level-1/Task-2%20Portfolio):** This portfolio project is an excellent way to present my work, skills, and achievements to potential employers or collaborators, highlighting my expertise in front-end development and design.
 
@@ -38,48 +83,10 @@ This project could serve as a showcase of your ability to develop engaging and i
 
 <br>
 
-
 ### 🎯 Future Goals:
 - Continue advancing in **ReactJS** and **Blockchain** development.
 - Contribute to **open-source projects** and expand my network in the tech community.
 - Explore **Machine Learning** and its applications in real-world problems.
-
-<br>
-
-### 📫 Connect with Me:
-<p align="center">
-  <a href="https://leetcode.com/u/rahul124rahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/rahul_dadge_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/rahuldadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/worm_rabbits" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/iamsrahulgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/rahul-dadge-221344249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/rahul_g_d_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
-
-<br>
-
-### 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-</p>
 
 <br>
 
