@@ -79,7 +79,7 @@
 
 ### 🏆 Achievements & Certifications:
 - **Certification :** Python for Data Science: Earned from [IBM cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/8ca57f861d6548b39b693991f9b49f21).
-- **Leetcode 100 Days Badge 2024 :** Leetcode [badge](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif).
+- **Leetcode 100 Days Badge 2024 :** Leetcode [badge](https://leetcode.com/u/rahul124rahul/).
 
 <br>
 
