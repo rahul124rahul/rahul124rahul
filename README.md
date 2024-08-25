@@ -95,7 +95,23 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9" alt="rahul124rahul GitHub Streak" />
 </p>
 
+### 📊 LeetCode Statistics:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rahul124rahul?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</p>
+
+
+
+
+
+
 <br>
 
 ### 😄 Fun Fact:
 - I'm a tech enthusiast who loves solving puzzles and swimming.
+
+
+
+
+
+
