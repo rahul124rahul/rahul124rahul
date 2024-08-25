@@ -92,7 +92,8 @@
 
 ### 📊 GitHub Analysis:
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9" alt="rahul124rahul GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9" alt="Streak Stats"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul124rahul&theme=dracula&bg_color=0d1117&color=ffffff&line=ff6b81&point=bd93f9&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ### 📊 LeetCode Statistics:
