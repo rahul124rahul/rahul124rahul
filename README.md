@@ -1,11 +1,21 @@
 <img src="https://github.com/rahul124rahul/rahul124rahul/blob/main/Black%20Simple%20Business%20Linkedin%20Banner.png?raw=true" alt="Banner" align="center">
 
 <h1 align="center">Hi 👋, I'm RAHUL GANESH DADGE</h1>
-<h3 align="center">A Passionate Computer Science Engineering Student from India</h3>
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=rahul124rahul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
+
+## 🧑‍💻 About Me:
+Hello! I'm **Rahul Ganesh Dadge**, a dedicated Computer Science Engineering student from India, with a passion for solving complex problems and building innovative solutions. I thrive in environments where creativity, learning, and challenge intersect.
+
+- 🎓 **Academic Focus**: I'm deeply immersed in the world of **software development**, with a strong foundation in **C++**, **Data Structures & Algorithms**, and **Python**.
+- 🌱 **Lifelong Learner**: Currently, I'm expanding my skill set in **ReactJS**, **Blockchain**, and **Machine Learning**—fields that are shaping the future of technology.
+- 💡 **Problem Solver**: I enjoy tackling coding challenges and have honed my skills on platforms like **LeetCode** and **CodeChef**.
+- 🤝 **Collaborator**: I'm enthusiastic about working on open-source projects and contributing to the tech community. Collaboration is key to innovation, and I'm always eager to connect with like-minded individuals.
+- 🎯 **Future Aspirations**: My goals include mastering **ReactJS** and **Blockchain**, contributing to impactful open-source projects, and exploring the potential of **Machine Learning** to solve real-world problems.
+
+
 
 <br>
 
@@ -90,11 +100,13 @@
 
 <br>
 
+
 ### 📊 GitHub Analysis:
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9" alt="Streak Stats"/>
+  <<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9&timestamp=1" alt="Streak Stats"/>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul124rahul&theme=dracula&bg_color=0d1117&color=ffffff&line=ff6b81&point=bd93f9&hide_border=true" alt="Activity Graph"/>
 </p>
+
 
 ### 📊 LeetCode Statistics:
 <p align="center">
