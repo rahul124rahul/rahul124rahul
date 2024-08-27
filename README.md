@@ -90,7 +90,7 @@ Hello! I'm **Rahul Ganesh Dadge**, a dedicated Computer Science Engineering stud
 ### 🏆 Achievements & Certifications:
 - **Certification :** Python for Data Science: Earned from [IBM cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/8ca57f861d6548b39b693991f9b49f21).
 - **Leetcode 100 Days Badge 2024 :** Leetcode [badge](https://leetcode.com/u/rahul124rahul/).
-- **HackerRank : ** Certificate [Problem Solving(basic)](https://www.hackerrank.com/certificates/5ffdea216b62)
+- **HackerRank :** Certificate [Problem Solving(basic)](https://www.hackerrank.com/certificates/5ffdea216b62)
 
 <br>
 
