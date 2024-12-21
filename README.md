@@ -101,20 +101,25 @@ Hello! I'm **Rahul Ganesh Dadge**, a dedicated Computer Science Engineering stud
 
 <br>
 
+
 ### 📊 GitHub Analysis:
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=5&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9&date=20241006" alt="Streak Stats"/>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul124rahul&theme=react-dark&bg_color=0d1117&color=ffffff&line=3b82f6&point=60a5fa&hide_border=true&v=10" alt="Activity Graph"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul124rahul&theme=radical&hide_border=true&background=0d1117&stroke=44475a&ring=ff6b81&fire=ff6b81&currStreakNum=5&sideNums=f8f8f2&currStreakLabel=ff6b81&sideLabels=f8f8f2&dates=bd93f9&date=20241221" alt="Streak Stats"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul124rahul&theme=react-dark&bg_color=0d1117&color=ffffff&line=3b82f6&point=60a5fa&hide_border=true&v=10&t=1672505600" alt="Activity Graph"/>
 </p>
 
 
 
-### 📊 LeetCode Statistics:
+
+### 📊 LeetCode Statistics
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rahul124rahul/)
+
+
+### 📊 LeetCode Profile
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rahul124rahul?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/rahul124rahul?ext=heatmap&theme=dark" alt="LeetCode Stats for rahul124rahul" />
 </p>
-
-
 
 
 
