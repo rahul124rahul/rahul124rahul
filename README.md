@@ -1,7 +1,7 @@
 <img src="https://github.com/rahul124rahul/rahul124rahul/blob/main/Black%20Simple%20Business%20Linkedin%20Banner.png?raw=true" alt="Banner" align="center">
 
 <p align="right"> 
-<!--   <img src="https://komarev.com/ghpvc/?username=rahul124rahul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  -->
+  <img src="https://komarev.com/ghpvc/?username=rahul124rahul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <h1 align="center">Hi 👋, I'm RAHUL GANESH DADGE</h1>
